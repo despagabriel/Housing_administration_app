@@ -1,0 +1,29 @@
+{
+   "owners": {
+      "andrei marin": {
+         "password": "12345",
+         "toPay": 0,
+         "balance": 75
+      },
+      "ionescu alin": {
+         "password": "12346",
+         "toPay": 100,
+         "balance": 0
+      },
+      "despa gabriel": {
+         "password": "23456",
+         "toPay": 100,
+         "balance": 0
+      },
+      "moga liviu": {
+         "password": "23564",
+         "toPay": 100,
+         "balance": 0
+      },
+      "popescu marius": {
+         "password": "13456",
+         "toPay": 100,
+         "balance": 0
+      }
+   }
+}
